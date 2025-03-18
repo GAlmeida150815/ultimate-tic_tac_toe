@@ -19,7 +19,7 @@
 <h3 align="center">Ultimate Tic-Tac-Toe</h3>
 
   <p align="center">
-    My first fullstack project.
+    My first ReactJS experience.
     <!--<br />
     <a href="https://github.com/GAlmeida150815/ultimate-tic_tac_toe"><strong>Explore the docs »</strong></a>
     <br />
@@ -57,14 +57,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Banner][project-banner]](https://ultimate-tic_tac_toe.pt)
+[![Screenshot][project-screenshot]](https://github.com/GAlmeida150815/ultimate-tic_tac_toe)
 
 ### Built With
 
 * [![React][React.js]][React-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![Node][Node.js]][Node-url]
-* [![SASS][SASS.com]][SASS-url]
 * [![CSS][CSS.com]][CSS-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -74,24 +71,19 @@
 <!-- Project Summary -->
 ## Project Summary
 
-This is my personal project website, developed for [SimpliAções](https://www.instagram.com/ultimate-tic_tac_toe/). It showcases the services and features they offer. The website is currently live, and further updates will be rolled out as we continue to enhance its functionality.
+This project is an implementation of the Ultimate Tic Tac Toe game, created as part of the Script Languages course in my Bachelor's degree. The game consists of a 3x3 grid of Tic Tac Toe boards, where each individual game is embedded within a larger grid. Players take turns, and when a player chooses a square in a specific board (for example, top-left), the next player must play their move in the corresponding position on the next available board (e.g., top-left of the overall grid). The game continues with this rule, creating an additional layer of strategy and challenge.
+
+Built using React, this project demonstrates my understanding of component-based architecture and state management. Features include real-time updates, game state tracking, and a responsive design to ensure smooth gameplay.
+
+### Key Features:
+<ul>
+  <li>Interactive UI with React components.</li>
+  <li>Dynamic game board with 3x3 Tic Tac Toe grids.</li>
+  <li>Turn-based gameplay with rules that determine the next board to play.</li>
+  <li>Game status tracking (e.g., win, draw, in-progress).</li>
+</ul>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- Live Demo -->
-## Live Demo
-
-Visit the live project at [simpliacoes.pt](https://ultimate-tic_tac_toe.pt).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- Disclaimer -->
-## Disclaimer
-### No Installation Required
-
-This project is a fully functional website hosted online. You can explore all the features directly through your browser.
-
-
 
 <!-- CONTRIBUTING -->
 ## Top contributors:
@@ -99,8 +91,6 @@ This project is a fully functional website hosted online. You can explore all th
 <a href="https://github.com/GAlmeida150815/ultimate-tic_tac_toe/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=GAlmeida150815/ultimate-tic_tac_toe" alt="contrib.rocks image" />
 </a>
-
-
 
 <!-- LICENSE -->
 ## License
@@ -123,9 +113,7 @@ Project Link: [https://ultimate-tic_tac_toe.pt](https://ultimate-tic_tac_toe.pt)
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 - [React](https://reactjs.org/) for the front-end framework
-- [Node.js](https://nodejs.org/) for the backend environment
 - [Bootstrap](https://getbootstrap.com/) for the UI components
-- [SASS](https://sass-lang.com) for an easier UI management
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -143,24 +131,11 @@ Project Link: [https://ultimate-tic_tac_toe.pt](https://ultimate-tic_tac_toe.pt)
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/goncaloafalmeida
 
-[project-banner]: images_readme/banner.png
+[project-screenshot]: images_readme/screenshot.png
 
-
-<!-- JavaScript -->
-[JavaScript]: https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
-[JavaScript-url]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/
 <!-- React -->
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-<!-- Bootstrap -->
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-<!-- Node -->
-[Node.js]: https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E
-[Node-url]: https://nodejs.org/en
-<!-- SASS -->
-[SASS.com]: https://img.shields.io/badge/SASS-20232A?style=for-the-badge&logo=sass&logoColor=%23CC6699
-[SASS-url]: https://sass-lang.com
 <!-- CSS -->
 [CSS.com]: https://img.shields.io/badge/CSS-20232A?style=for-the-badge&logo=css&logoColor=%23663399
 [CSS-url]: https://www.w3schools.com/css/
