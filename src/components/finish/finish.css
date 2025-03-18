@@ -1,0 +1,23 @@
+.finish-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.finish-message {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.finish-restart {
+  padding: 10px 20px;
+  font-size: 18px;
+  background-color: #73468bf8;
+  color: rgb(204, 204, 204);
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.finish-restart:hover {
+  background-color: #613b75f8;
+}

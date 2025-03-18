@@ -1,0 +1,111 @@
+.board {
+  display: flex;
+  flex-wrap: wrap;
+  width: min-content;
+  margin: 0 auto;
+  background-color: #673d7e;
+}
+
+.board-row {
+  display: flex;
+  width: 100%;
+}
+
+.game {
+  position: relative;
+  flex: 1;
+  border: 1px solid #442953f8;
+  padding: 10px;
+}
+
+.square {
+  width: 60px;
+  height: 60px;
+  font-size: 37.5px;
+  font-weight: bolder;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #73468bf8;
+  border: 1px solid rgb(97, 59, 117);
+  cursor: pointer;
+}
+
+.game.finished[data-symbol="X"] button {
+  background-color: rgba(255, 99, 99, 0.5);
+  border: 0.5px solid rgba(255, 99, 99, 0.75);
+}
+
+.game.finished[data-symbol="O"] button {
+  background-color: rgba(255, 190, 105, 0.5);
+  border: 0.5px solid rgba(255, 190, 105, 0.75);
+}
+
+.game.finished[data-symbol="="] button {
+  background-color: rgba(255, 255, 255, 0.5);
+  border: 0.5px solid rgba(255, 255, 255, 0.75);
+}
+
+.X {
+  color: #ff6363bf;
+}
+
+.O {
+  color: #ffbe69bf;
+}
+
+.playable.X button {
+  animation: 2s linear infinite blinkingX;
+  background-position: center center;
+}
+
+.playable.O button {
+  animation: 2s linear infinite blinkingO;
+  background-position: center center;
+}
+
+.playable
+button:not(.X):not(.O):hover 
+span {
+  content: none;
+}
+.playable.O
+button:not(.X):not(.O):hover::before
+, .O .selected::before {
+  content: "O";
+  color: rgba(255, 153, 102, 0.75);
+}
+.playable.X
+button:not(.X):not(.O):hover::before
+, .X .selected::before {
+  content: "X";
+  color: rgba(255, 153, 102, 0.75); 
+}
+@keyframes blinkingO {
+  from {
+    background: rgba(255, 190, 105, 0.5);
+  }
+
+  50% {
+    background: #73468bf8;
+  }
+
+  to {
+    background: rgba(255, 190, 105, 0.5);
+  }
+}
+
+@keyframes blinkingX {
+  from {
+    background: rgba(255, 99, 99, 0.5);
+  }
+
+  50% {
+    background: #73468bf8;
+  }
+
+  to {
+    background: rgba(255, 99, 99, 0.5);
+  }
+}
+
