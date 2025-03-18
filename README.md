@@ -12,23 +12,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/GAlmeida150815/simpliacoes">
+  <a href="https://github.com/GAlmeida150815/ultimate-tic_tac_toe">
     <img src="images_readme/logo.png" alt="Logo" width="126" height="126">
   </a>
 
-<h3 align="center">SimpliAções</h3>
+<h3 align="center">Ultimate Tic-Tac-Toe</h3>
 
   <p align="center">
     My first fullstack project.
     <!--<br />
-    <a href="https://github.com/GAlmeida150815/simpliacoes"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/GAlmeida150815/ultimate-tic_tac_toe"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/GAlmeida150815/simpliacoes">View Demo</a>
+    <a href="https://github.com/GAlmeida150815/ultimate-tic_tac_toe">View Demo</a>
     &middot;
-    <a href="https://github.com/GAlmeida150815/simpliacoes/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/GAlmeida150815/ultimate-tic_tac_toe/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;
-    <a href="https://github.com/GAlmeida150815/simpliacoes/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>-->
+    <a href="https://github.com/GAlmeida150815/ultimate-tic_tac_toe/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>-->
   </p>
 </div>
 
@@ -57,7 +57,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Banner][project-banner]](https://simpliacoes.pt)
+[![Banner][project-banner]](https://ultimate-tic_tac_toe.pt)
 
 ### Built With
 
@@ -74,14 +74,14 @@
 <!-- Project Summary -->
 ## Project Summary
 
-This is my personal project website, developed for [SimpliAções](https://www.instagram.com/simpliacoes/). It showcases the services and features they offer. The website is currently live, and further updates will be rolled out as we continue to enhance its functionality.
+This is my personal project website, developed for [SimpliAções](https://www.instagram.com/ultimate-tic_tac_toe/). It showcases the services and features they offer. The website is currently live, and further updates will be rolled out as we continue to enhance its functionality.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Live Demo -->
 ## Live Demo
 
-Visit the live project at [simpliacoes.pt](https://simpliacoes.pt).
+Visit the live project at [simpliacoes.pt](https://ultimate-tic_tac_toe.pt).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -96,8 +96,8 @@ This project is a fully functional website hosted online. You can explore all th
 <!-- CONTRIBUTING -->
 ## Top contributors:
 
-<a href="https://github.com/GAlmeida150815/simpliacoes/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=GAlmeida150815/simpliacoes" alt="contrib.rocks image" />
+<a href="https://github.com/GAlmeida150815/ultimate-tic_tac_toe/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=GAlmeida150815/ultimate-tic_tac_toe" alt="contrib.rocks image" />
 </a>
 
 
@@ -116,7 +116,7 @@ All rights reserved. You may not use, modify, or distribute this code without my
 
 Gonçalo Almeida - [@__almeidaa__](https://twitter.com/__almeidaa__) - almeidagonsalo05@gmail.com
 
-Project Link: [https://simpliacoes.pt](https://simpliacoes.pt)
+Project Link: [https://ultimate-tic_tac_toe.pt](https://ultimate-tic_tac_toe.pt)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -130,16 +130,16 @@ Project Link: [https://simpliacoes.pt](https://simpliacoes.pt)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/GAlmeida150815/simpliacoes.svg?style=for-the-badge
-[contributors-url]: https://github.com/GAlmeida150815/simpliacoes/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/GAlmeida150815/simpliacoes.svg?style=for-the-badge
-[forks-url]: https://github.com/GAlmeida150815/simpliacoes/network/members
-[stars-shield]: https://img.shields.io/github/stars/GAlmeida150815/simpliacoes.svg?style=for-the-badge
-[stars-url]: https://github.com/GAlmeida150815/simpliacoes/stargazers
-[issues-shield]: https://img.shields.io/github/issues/GAlmeida150815/simpliacoes.svg?style=for-the-badge
-[issues-url]: https://github.com/GAlmeida150815/simpliacoes/issues
-[license-shield]: https://img.shields.io/github/license/GAlmeida150815/simpliacoes.svg?style=for-the-badge
-[license-url]: https://github.com/GAlmeida150815/simpliacoes/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/GAlmeida150815/ultimate-tic_tac_toe.svg?style=for-the-badge
+[contributors-url]: https://github.com/GAlmeida150815/ultimate-tic_tac_toe/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/GAlmeida150815/ultimate-tic_tac_toe.svg?style=for-the-badge
+[forks-url]: https://github.com/GAlmeida150815/ultimate-tic_tac_toe/network/members
+[stars-shield]: https://img.shields.io/github/stars/GAlmeida150815/ultimate-tic_tac_toe.svg?style=for-the-badge
+[stars-url]: https://github.com/GAlmeida150815/ultimate-tic_tac_toe/stargazers
+[issues-shield]: https://img.shields.io/github/issues/GAlmeida150815/ultimate-tic_tac_toe.svg?style=for-the-badge
+[issues-url]: https://github.com/GAlmeida150815/ultimate-tic_tac_toe/issues
+[license-shield]: https://img.shields.io/github/license/GAlmeida150815/ultimate-tic_tac_toe.svg?style=for-the-badge
+[license-url]: https://github.com/GAlmeida150815/ultimate-tic_tac_toe/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/goncaloafalmeida
 
